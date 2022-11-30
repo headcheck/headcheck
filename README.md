@@ -1,4 +1,4 @@
-Live long and prosper
+Live Long and Prosper
 
 <!---
 headcheck/headcheck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
