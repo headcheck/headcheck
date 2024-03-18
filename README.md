@@ -1,6 +1,5 @@
-# 👽![SpockStarTrekGIF](https://github.com/headcheck/headcheck/assets/645365/ae97cea8-1f8c-4615-b9c7-935a15e66995)
-![LlapSpockGIF](https://github.com/headcheck/headcheck/assets/645365/f18bbbdc-9cc8-4fc2-b0d1-ca5328111417)
- Greetings, Earthlings! Live Long and Prosper 👽
+# ![SpockStarTrekGIF](https://github.com/headcheck/headcheck/assets/645365/ae97cea8-1f8c-4615-b9c7-935a15e66995)
+👽Greetings, Earthlings! Live Long and Prosper 👽
 
 My name is Headcheck, an intergalactic developer on a mission to create stellar software that transcends time and space. Welcome to my GitHub profile!
 
